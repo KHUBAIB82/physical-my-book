@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkphysical_my_book=globalThis.webpackChunkphysical_my_book||[]).push([[1585],{7277(o){o.exports=JSON.parse('{"metadata":{"permalink":"/physical-my-book/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
